@@ -1,1 +1,1 @@
-Exercícios em C pequenos (LP1).
+Exercícios em C (LP1).
